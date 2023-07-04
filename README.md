@@ -21,5 +21,6 @@
     </a>  
 </p>
 
-<center>### Languages </center>
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white&color=black)
+<center><b> Languages </b>Languages</center> <br>
+[![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)]
+
