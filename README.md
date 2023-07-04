@@ -7,7 +7,6 @@
         I am a software developer working towards becoming a full stack developer, with a strong preference for backend development. <br>
         I enjoy designing and building robust software systems that power various applications and services.<br>
     </i> <br>
-    <p><img width="320" height="300" src="raul-photo.jpg"></p>
     <a href="https://www.linkedin.com/in/raulperezvaliente/">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=%2316FF00" alt="LinkedIn">
     </a>
@@ -21,6 +20,7 @@
         <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&color=%2316FF00" alt="Twitter">
     </a>  
 </p>
+<p align"center"><img width="320" height="300" src="raul-photo.jpg"></p>
 
 ### Languages
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
