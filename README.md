@@ -22,6 +22,8 @@
 </p>
 
 ### Languages
-[![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)]
+[![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/raulpvaliente)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+[![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/raulpvaliente)
 
 
