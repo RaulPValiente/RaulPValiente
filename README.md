@@ -14,7 +14,7 @@
         <img src="https://img.shields.io/badge/Email-color=%2316FF00?style=flat-square&logo=gmail&logoColor=white" alt="e-mail">
     </a>
     <a href="https://twitter.com/raulpvaliente">
-        <img src="https://img.shields.io/twitter/Twitter-color=%2316FF00?style=flat-square&logo=twitter&logoColor=white" alt="Twitter">
+        <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&color=%2316FF00" alt="Twitter">
     </a>
     
 </p>
