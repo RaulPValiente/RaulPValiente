@@ -11,10 +11,15 @@
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=%2316FF00" alt="LinkedIn">
     </a>
     <a href="mailto:raulpvaliente@gmail.com">
-        <img src="https://img.shields.io/badge/Email-color=%2316FF00?style=flat-square&logo=gmail&logoColor=white" alt="e-mail">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=%2316FF00" alt="e-mail">
     </a>
     <a href="https://twitter.com/raulpvaliente">
         <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&color=%2316FF00" alt="Twitter">
     </a>
-    
+    <a href="https://www.instagram.com/raulpvaliente/">
+        <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&color=%2316FF00" alt="Twitter">
+    </a>  
 </p>
+
+<center>### Languages </center>
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white&color=black)
