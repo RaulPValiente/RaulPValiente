@@ -21,9 +21,9 @@
     </a>  
 </p>
 
-<div align="center">
-    ![Raúl](raul-photo.jpg)
-</div>
+<p align="center">
+  <img width="300" height="300" src="raul-photo.jpg">
+</p>
 
 ### Languages
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
