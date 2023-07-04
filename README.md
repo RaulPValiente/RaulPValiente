@@ -22,7 +22,7 @@
 </p>
 
 <p align="center">
-  <img width="300" height="300" src="raul-photo.jpg">
+  <img width="320" height="300" src="raul-photo.jpg">
 </p>
 
 ### Languages
