@@ -6,8 +6,20 @@
         I'm Raúl.<br>
         I am a software developer working towards becoming a full stack developer, with a strong preference for backend development. <br>
         I enjoy designing and building robust software systems that power various applications and services.<br>
-    </i> <br>
-    <img width="320" height="300" src="raul-photo.jpg"><br><br>
+    </i> <br> <p/>
+
+```python
+    fullstack_developer = {
+    "name": "Raul",
+    "surname": "Perez Valiente",
+    "country": "España",
+    "city": "Madrid",
+    "languages": ["Python", "Java", "JavaScript", "TypeScript", "C#"],
+    "frameworks": ["Django", "Spring", "Angular, ".NET"]
+}
+```
+<br>
+<p align="center">
     <a href="https://www.linkedin.com/in/raulperezvaliente/">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=%2316FF00" alt="LinkedIn">
     </a>
