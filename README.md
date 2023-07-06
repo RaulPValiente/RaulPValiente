@@ -16,7 +16,7 @@
     "city": "Madrid",
     "languages": ["Python", "Java", "JavaScript", "TypeScript", "C#"],
     "frameworks": ["Django", "Spring", "Angular, ".NET"]
-}
+    }
 ```
 <br>
 <p align="center">
