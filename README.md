@@ -10,12 +10,13 @@
 
 ```python
     fullstack_developer = {
-    "name": "Raul",
-    "surname": "Perez Valiente",
+    "name": "Raúl",
+    "surname": "Pérez Valiente",
     "country": "España",
     "city": "Madrid",
     "languages": ["Python", "Java", "JavaScript", "TypeScript", "C#"],
-    "frameworks": ["Django", "Spring", "Angular, ".NET"]
+    "frameworks": ["Django", "Spring", "Angular", ".NET"],
+    "technologies": ["Git", "GitHub", "Bootstrap", "Node"]
     }
 ```
 <br>
