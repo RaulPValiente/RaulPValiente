@@ -36,9 +36,6 @@ tech_profile = {
     <a href="mailto:raulpvaliente@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="e-mail">
     </a>
-    <a href="https://twitter.com/raulpvaliente">
-        <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="Twitter">
-    </a>
     <a href="https://www.instagram.com/raulpvaliente/">
         <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
     </a>  
