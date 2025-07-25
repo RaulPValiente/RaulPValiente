@@ -9,7 +9,7 @@
     </i> <br> <p/>
 
 ```python
-    tech_profile = {
+tech_profile = {
     "name": "Raúl",
     "surname": "Pérez Valiente",
     "country": "España",
