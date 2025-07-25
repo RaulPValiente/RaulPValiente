@@ -9,15 +9,23 @@
     </i> <br> <p/>
 
 ```python
-    fullstack_developer = {
+    tech_profile = {
     "name": "Raúl",
     "surname": "Pérez Valiente",
     "country": "España",
     "city": "Madrid",
-    "languages": ["Python", "Java", "JavaScript", "TypeScript, Golang"],
-    "frameworks": ["Flask", "Spring", "Angular", "Svelte"],
-    "technologies": ["Git", "GitHub", "Bootstrap", "Node"]
+    "roles": {
+        "Data Analyst": {
+            "languages": ["Python", "SQL"],
+            "tools": ["Pandas", "NumPy", "Power BI", "Excel"]
+        },
+        "Web Developer": {
+            "languages": ["JavaScript", "TypeScript", "Python"],
+            "frameworks": ["Flask", "Node.js", "React", "Tailwind CSS"]
+        },
+        "Version Control": ["Git", "GitHub"]
     }
+}
 ```
 <br>
 <p align="center">
@@ -31,7 +39,7 @@
         <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&color=00CF8B" alt="Twitter">
     </a>
     <a href="https://www.instagram.com/raulpvaliente/">
-        <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&color=00CF8B" alt="Twitter">
+        <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&color=00CF8B" alt="Instagram">
     </a>  
 </p>
 
