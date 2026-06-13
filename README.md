@@ -24,7 +24,7 @@ developer_profile = {
     "role": "Fullstack Developer",
     "focus": ["Frontend", "Backend", "AI-assisted development"],
     "frontend": ["React", "Next.js", "Vite", "Tailwind CSS"],
-    "backend": ["Node.js", "Express", "Python", "Flask"],
+    "backend": ["Node.js", "Express", "Python", "Flask", "Go"],
     "database": ["MySQL"],
     "web3": ["Solidity"],
     "ai_tools": ["Cursor", "OpenAI / ChatGPT", "Claude", "OpenCode"]
