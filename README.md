@@ -63,9 +63,6 @@ developer_profile = {
   <img src="https://img.shields.io/badge/OpenCode-1A1A1A?style=for-the-badge&logo=terminal&logoColor=white" alt="OpenCode">
 </p>
 
-<p align="center">
-  I use AI tools as part of my daily development workflow to move faster across architecture, implementation, debugging, refactoring, and documentation.
-</p>
 
 <h2 align="center">Web3</h2>
 
